@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Valerie！ 👋
 
-<!--
-**valerietsai/valerietsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名初級數據分析師，目前正在學習 **機器學習 (machine learning) **和 **深度學習 (deep learning)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我的 GitHub 統計數據
+
+![Valerietsai's Github Stats](https://github-readme-stats.vercel.app/api?username=valerietsai&show_icons=true&theme=radical)
+
+---
+
+### 最常用的語言
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valerietsai&layout=compact&theme=radical)
